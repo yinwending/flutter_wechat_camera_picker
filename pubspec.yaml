@@ -16,7 +16,7 @@ issue_tracker: https://github.com/fluttercandies/flutter_wechat_camera_picker/is
 
 environment:
   sdk: ">=2.17.6 <3.0.0"
-  flutter: '>=3.16.0'
+  # flutter: '>=3.16.0'
 
 dependencies:
   flutter:
