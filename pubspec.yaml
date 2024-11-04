@@ -22,7 +22,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  wechat_picker_library: ^1.0.2
+  wechat_picker_library: 1.0.0-dev.2
 
   camera: ^0.10.0
   camera_android: ^0.10.9+6
